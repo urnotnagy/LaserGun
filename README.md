@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to LaserGun!
 
 LaserGun is a local multiplayer game where you and your cute dinsaour friend have to cooperate and synchronize your movements together to control your "LaserGun" that can only move through both of your movments to beat the evil ghosts.
 
