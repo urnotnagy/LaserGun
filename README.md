@@ -6,13 +6,14 @@ LaserGun is a local multiplayer game where you and your cute dinsaour friend hav
 
 ## Functions
 
-The game is an arcade style aiming to get the highest score possible before losing. You can dash with space to get a temporary speed boost. And move around the screen to for your laser to follow you and teleport between screen edges in mario style. Make sure to cooperate with your friend as one end of the laser will follow you and the other will follow him!
+The game is an arcade style aiming to get the highest score possible before losing. You can dash with space to get a temporary speed boost. And move around the screen to for your laser to follow you to defend yourself against the ghosts and teleport between screen edges in mario style. Make sure to cooperate with your friend as one end of the laser will follow you and the other will follow him!
 
 ## About
 
 LaserGun is my experiemnt with Photon library in Unity and C#. It's a local LAN multiplayer game that can be played from two different PCs over a network. it can also be tested by running two different instances of the game on the same PC.
 Please note that this is only some of the scripts used in this project, it required way more but I made this project long time ago and due to switching between different laptops, I lost most of the source code and this is only what's left of it.
 The reason I am uploading it is only for demonstration.
+
 ![preview](https://github.com/urnotnagy/LaserGun/blob/main/gifs/1.gif)
 
 ## Download
@@ -25,4 +26,4 @@ It only runs on windows
 
 ## Credits
 
-I didn't draw the background, Dinasours sprites, or create the music. But I made the ghost myself.
+I didn't draw the background, Dinasours sprites, or create the music. But I made the ghost myself and the death explosion effect.
