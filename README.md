@@ -15,7 +15,7 @@ LaserGun is my experiemnt with Photon library in Unity and C#. It's a local LAN 
 ![preview](https://github.com/urnotnagy/LaserGun/blob/main/gifs/1.gif)
 
 ## Download
-You can download the executable [here](https://zanejuliun.itch.io/dinos-with-lazer-and-ghosts-2-ultimate-edition)It only runs on windows
+You can download the executable [here](https://zanejuliun.itch.io/dinos-with-lazer-and-ghosts-2-ultimate-edition)
 
 ## Known bugs
 - Name of player gets bugged when walking in different directions for differnet players screens
